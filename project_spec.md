@@ -7,9 +7,9 @@ Your crowdfunding project must:
 - [ ] Be separated into two distinct projects: an API built using the Django Rest Framework and a website built using React. 
 - [ ] Have a cool name, bonus points if it includes a pun and/or missing vowels. See https://namelix.com/ for inspiration.
 - [x] Have a clear target audience.
-- [ ] Have user accounts. A user should have at least the following attributes:
+- [x] Have user accounts. A user should have at least the following attributes:
   - [x] Username
-  - [ ] Email address
+  - [x] Email address
   - [x] Password
 - [x] Ability to create a “project” to be crowdfunded which will include at least the following attributes:
   - [x] Title
